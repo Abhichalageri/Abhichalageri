@@ -8,12 +8,49 @@
 
 ---
 
+## 🌍 My GitHub Profile  
+🔗 **https://github.com/Abhichalageri**
+
+---
+
 ## 🚀 About Me  
-- 💻 I'm a **Full Stack Developer**  
+- 💻 Full Stack Developer  
 - 🎓 BCA 2025  
-- 🔧 I build **professional web apps**  
-- 📚 Learning **React + Java Backend**  
+- 🔧 Skilled in Java, Python, SQL, JavaScript  
+- 🌐 Building professional web applications  
 - 🤝 Open to **internships & job opportunities**  
+
+---
+
+## 🔥 My Projects (Showcase)
+
+### ⭐ TaskMan – Task Buddy  
+A task management system with modern UI.  
+📌 *React + Node.js + MongoDB / PHP + MySQL version (Your choice)*  
+🔗 **https://github.com/Abhichalageri/TaskManTaskBuddy**
+
+---
+
+### ⭐ BiteBox – Food Ordering Frontend  
+A Zomato-like frontend made with HTML, CSS & JS.  
+🔗 *(Add GitHub link if uploaded)*
+
+---
+
+### ⭐ Smart Street Light System  
+IoT-based automation to reduce electricity usage.  
+🔗 *(Add GitHub link if uploaded)*
+
+---
+
+### ⭐ Automatic GitHub Project Cards  
+Below section **auto-updates** & shows all your public repos 👇  
+
+<p align="center">
+  <a href="https://github.com/Abhichalageri?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhichalageri&repo=TaskManTaskBuddy&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -25,7 +62,7 @@
 
 ---
 
-## 🌟 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Abhichalageri&show_icons=true&theme=tokyonight" />
@@ -42,6 +79,7 @@
 ---
 
 ## 🏆 GitHub Trophies  
+
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Abhichalageri&theme=darkhub&margin-w=15" />
 </p>
@@ -54,28 +92,9 @@
 <a href="https://www.linkedin.com/in/abhi-chalageri" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://instagram.com/abhichalageri" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
-
----
-
-### ✨ Profile Now Includes:
-✔ Animated typing “Full Stack Developer”  
-✔ Attractive colors & layout  
-✔ Skill icons in a clean single line  
-✔ Projects & stats look professional  
-✔ Recruiter-friendly format  
-✔ Modern, 2025-style GitHub profile  
-
----
-
-If you want, I can also add:
-🎨 Custom banner  
-📦 Project showcase cards  
-⚡ Animated snake graph (it moves around your commits)
-
-Just tell me — I’ll add it!
-
 
