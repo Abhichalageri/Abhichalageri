@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋, I'm <strong>Abhichala Geri</strong>
+  Hi there 👋, I'm <strong>Abhishek Chalageri</strong>
 </h1>
 
 <h3 align="center">
@@ -26,25 +26,25 @@
 
 ### ⭐ TaskMan – Task Buddy  
 A task management system with modern UI.  
-📌 *React + Node.js + MongoDB / PHP + MySQL version (Your choice)*  
-🔗 **https://github.com/Abhichalageri/TaskManTaskBuddy**
+📌 *React*  
+🔗 **https://abhichalageri.github.io/TaskManTaskBuddy-/
 
 ---
 
 ### ⭐ BiteBox – Food Ordering Frontend  
-A Zomato-like frontend made with HTML, CSS & JS.  
-🔗 *(Add GitHub link if uploaded)*
+A BiteBox frontend made with HTML, CSS & JS.  
+🔗 **https://abhichalageri.github.io/BiteBox/
 
 ---
 
-### ⭐ Smart Street Light System  
-IoT-based automation to reduce electricity usage.  
-🔗 *(Add GitHub link if uploaded)*
+### ⭐ PortFolio  
+My Digital Resume.  
+🔗 *https://abhichalageri.github.io/Port/*
 
 ---
 
-### ⭐ Automatic GitHub Project Cards  
-Below section **auto-updates** & shows all your public repos 👇  
+### ⭐ ToDoList  
+ https://abhichalageri.github.io/todolist/  
 
 <p align="center">
   <a href="https://github.com/Abhichalageri?tab=repositories">
