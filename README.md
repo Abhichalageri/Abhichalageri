@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300F7FF&size=28&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Frontend+%2B+Backend+Developer;Passionate+Coder+%F0%9F%92%BB;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+|+Python+|+JavaScript;Frontend+%2B+Backend+Developer;Creative+Coder+💻;Always+Learning+New+Things+🚀" />
 </h3>
 
 ---
@@ -18,47 +18,37 @@
 - 🎓 BCA 2025  
 - 🔧 Skilled in Java, Python, SQL, JavaScript  
 - 🌐 Building professional web applications  
-- 🤝 Open to **internships & job opportunities**  
+- 🤝 Looking for Full-Stack or Software Developer roles  
 
 ---
 
-## 🔥 My Projects (Showcase)
+# 🔥 My Projects (Showcase)
 
 ### ⭐ TaskMan – Task Buddy  
 A task management system with modern UI.  
-📌 *React*  
 🔗 **https://abhichalageri.github.io/TaskManTaskBuddy-/**
 
 ---
 
 ### ⭐ BiteBox – Food Ordering Frontend  
-A BiteBox frontend made with HTML, CSS & JS.  
+Frontend UI similar to Zomato / Swiggy.  
 🔗 **https://abhichalageri.github.io/BiteBox/**
 
 ---
 
-### ⭐ Portfolio  
-My Digital Resume Portfolio Website.  
+### ⭐ Portfolio Website  
+My personal digital portfolio.  
 🔗 **https://abhichalageri.github.io/Port/**
 
 ---
 
-### ⭐ ToDoList  
-Simple ToDo List using HTML, CSS, JS.  
+### ⭐ ToDo List  
+A simple JavaScript-based ToDo app.  
 🔗 **https://abhichalageri.github.io/todolist/**
 
 ---
 
-### ⭐ Auto Project Card  
-<p align="center">
-  <a href="https://github.com/Abhichalageri/TaskManTaskBuddy-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhichalageri&repo=TaskManTaskBuddy-&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-## 🛠️ Languages & Tools  
+# 🛠️ Languages & Tools  
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,java,python,c,php,mysql,git,github,linux,vscode" />
@@ -66,18 +56,9 @@ Simple ToDo List using HTML, CSS, JS.
 
 ---
 
-## 📊 GitHub Stats  
-
+### ⭐ GitHub Stats (Neon Style)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhichalageri&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhichalageri&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhichalageri&layout=compact&theme=tokyonight" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Abhichalageri&cc=0d1117&tc=37BCF6&ic=ffffff&bc=000" />
 </p>
 
 ---
