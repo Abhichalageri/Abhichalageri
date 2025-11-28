@@ -27,28 +27,32 @@
 ### ⭐ TaskMan – Task Buddy  
 A task management system with modern UI.  
 📌 *React*  
-🔗 **https://abhichalageri.github.io/TaskManTaskBuddy-/
+🔗 **https://abhichalageri.github.io/TaskManTaskBuddy-/**
 
 ---
 
 ### ⭐ BiteBox – Food Ordering Frontend  
 A BiteBox frontend made with HTML, CSS & JS.  
-🔗 **https://abhichalageri.github.io/BiteBox/
+🔗 **https://abhichalageri.github.io/BiteBox/**
 
 ---
 
-### ⭐ PortFolio  
-My Digital Resume.  
-🔗 *https://abhichalageri.github.io/Port/*
+### ⭐ Portfolio  
+My Digital Resume Portfolio Website.  
+🔗 **https://abhichalageri.github.io/Port/**
 
 ---
 
 ### ⭐ ToDoList  
- https://abhichalageri.github.io/todolist/  
+Simple ToDo List using HTML, CSS, JS.  
+🔗 **https://abhichalageri.github.io/todolist/**
 
+---
+
+### ⭐ Auto Project Card  
 <p align="center">
-  <a href="https://github.com/Abhichalageri?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhichalageri&repo=TaskManTaskBuddy&theme=tokyonight" />
+  <a href="https://github.com/Abhichalageri/TaskManTaskBuddy-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhichalageri&repo=TaskManTaskBuddy-&theme=tokyonight" />
   </a>
 </p>
 
@@ -65,21 +69,20 @@ My Digital Resume.
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhichalageri&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhichalageri&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhichalageri&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhichalageri&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhichalageri&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhichalageri&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies  
-
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Abhichalageri&theme=darkhub&margin-w=15" />
 </p>
@@ -97,4 +100,3 @@ My Digital Resume.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
-
